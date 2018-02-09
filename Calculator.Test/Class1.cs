@@ -26,7 +26,7 @@ namespace Calculator.Test
         public void Multiply3By2()
         {
             Calculator smart = new Calculator();
-            Assert.That(smart.Multiply(3, 2).Equals(4));
+            Assert.That(smart.Multiply(3, 2).Equals(6));
         }
         [Test]
         public void Power5By2()
