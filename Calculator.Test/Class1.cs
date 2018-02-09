@@ -28,5 +28,11 @@ namespace Calculator.Test
             Calculator smart = new Calculator();
             Assert.That(smart.Multiply(3, 2).Equals(4));
         }
+        [Test]
+        public void Power5By2()
+        {
+            Calculator smart = new Calculator();
+            Assert.That(smart.Power(5, 2).Equals(25));
+        }
     }
 }
