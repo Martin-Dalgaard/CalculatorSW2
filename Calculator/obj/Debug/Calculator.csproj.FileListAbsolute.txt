@@ -1,6 +1,0 @@
-C:\Users\home1\Documents\4.-Semester\SWT\01.1\Calculator\Calculator\bin\Debug\Calculator.dll
-C:\Users\home1\Documents\4.-Semester\SWT\01.1\Calculator\Calculator\bin\Debug\Calculator.pdb
-C:\Users\home1\Documents\4.-Semester\SWT\01.1\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
-C:\Users\home1\Documents\4.-Semester\SWT\01.1\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
-C:\Users\home1\Documents\4.-Semester\SWT\01.1\Calculator\Calculator\obj\Debug\Calculator.dll
-C:\Users\home1\Documents\4.-Semester\SWT\01.1\Calculator\Calculator\obj\Debug\Calculator.pdb
